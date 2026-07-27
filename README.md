@@ -84,15 +84,8 @@ Simon-Game/
 Example:
 
 ```
-images/screenshot.png
+Dashboard.png
 ```
-
-Then include:
-
-```markdown
-![Simon Game Screenshot](images/screenshot.png)
-```
-
 ---
 
 ## 💡 Future Improvements
